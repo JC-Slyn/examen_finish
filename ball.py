@@ -1,7 +1,7 @@
 import pygame
 import random
 from settings import *
-
+#manito
 #definiendo clases
 class Ball:
 
